@@ -1,0 +1,7 @@
+.thead {
+    background-color: lightgrey;
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+    align-items: center;
+}

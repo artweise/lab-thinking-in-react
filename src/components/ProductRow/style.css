@@ -1,0 +1,15 @@
+.product-row{
+    display: flex;
+    border-bottom: 1px solid darkgrey;
+    justify-content: space-around;
+    height: 50px;
+    align-items: center;
+}
+
+.text-black {
+    color: black;
+}
+
+.text-red {
+    color: red;
+}
